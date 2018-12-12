@@ -1,3 +1,7 @@
 [submodule "presentations"]
 	path = presentations
 	url = https://github.com/sudo-bmitch/presentations
+[submodule "presentations-webinar-20181212"]
+	path = presentations-webinar-20181212
+	url = https://github.com/sudo-bmitch/presentations.git
+	branch = webinar-20181212
